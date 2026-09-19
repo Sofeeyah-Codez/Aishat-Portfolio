@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #0176de;
+    text-align: center;
+    color: #fce682;
+}
+header{
+    font-size:19px;
+    background-color: #3960ca;
+    padding: 20px;
+}
+main{
+    width: 100%;
+}
+.product-card{
+    width: 300px;
+    background-color: #3960ca;
+  border: 1px solid #032e7f;
+  margin: 20px auto;
+  padding: 20px; 
+}
+.product-card img{
+    width: 100%;
+    height: 200px;
+ 
+}
+.product-card h2{
+    font-size:30px;
+}
